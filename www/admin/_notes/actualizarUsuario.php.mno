@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_LiveData_params" value="1" />
+	<infoitem key="UD_LiveData_param0" value="recordID=1" />
+	<infoitem key="UD_rsEditarUsuario" value="name:idUsuario;datatype:int,name:usuarioNombre;datatype:string,name:usuarioApellido;datatype:string,name:usuarioUser;datatype:string,name:usuarioPass;datatype:string,name:usuarioDireccion;datatype:string,name:usuarioDireccion2;datatype:string,name:usuarioTelefono;datatype:string,name:usuarioTelefono2;datatype:string,name:usuarioCelular;datatype:string,name:usuarioID;datatype:string,name:usuarioCorreo;datatype:string,name:usuarioCorreo2;datatype:string,name:usuarioTitulo;datatype:string,name:usuarioNota;datatype:string" />
+	<infoitem key="UD_rsTipoUsuario" value="name:idUN;datatype:int,name:idNivel;datatype:int,name:idUsuario;datatype:int,name:idNivel;datatype:int,name:nivelNombre;datatype:string" />
+</info>
